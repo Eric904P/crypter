@@ -1,3 +1,5 @@
+COPIED FROM https://github.com/NateBrune/Simple-XTEA-Crypter
+
 Simple-XTEA-Crypter 
 ==========
 
